@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapv2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="GPSAlertDialogTitle">Enable/Disable GPS</string>
+    <string name="GPSAlertDialogMessage">Your GPS is not enabled , Kindly Enable it to get the Current Location</string>
+    <string name="action_settings">Enable GPS</string>
+    <string name="cancel">Close</string>
+</resources>
